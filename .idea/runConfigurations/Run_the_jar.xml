@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run the jar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/SuperiorDragon-1.0-SNAPSHOT.jar" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
