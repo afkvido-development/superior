@@ -1,2 +1,50 @@
+# Internal Grade folder
 /.gradle/
+
+# Built .jar file
 /build/
+
+# IntelliJ IDEA Workspace
+/.idea/workspace.xml
+
+# IntelliJ IDEA shelf
+/.idea/shelf/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Java Archive
+*.jar
+
+# Package File
+*.war
+
+# Package File
+*.nar
+
+# Package File
+*.ear
+
+# ZIP Archive
+*.zip
+
+# Tarball Archive
+*.tar.gz
+
+# RAR Archive
+*.rar
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+replay_pid*
