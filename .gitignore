@@ -1,6 +1,9 @@
 # Internal Grade folder
 /.gradle/
 
+# Complier Output
+/out/
+
 # Built .jar file
 /build/
 
