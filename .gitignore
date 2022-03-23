@@ -1,7 +1,10 @@
+# Gradle Wrapper
+/gradle/
+
 # Logs folder
 /logs/
 
-# Internal Grade folder
+# Internal Gradle folder
 /.gradle/
 
 # Complier Output
